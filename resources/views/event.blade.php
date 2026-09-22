@@ -69,7 +69,7 @@
                     </h3>
                     <p class="text-xs text-gray-600 mt-2">
                         Dikelola PTPN I Regional 5 Kebun Teh Wonosari,
-                        tempat ini terkenal sebagai wisata edukasi teh 
+                        tempat ini terkenal sebagai wisata edukasi teh
                         sekaligus destinasi liburan keluarga.
                     </p>
                 </div>
@@ -85,7 +85,7 @@
                     <p class="text-xs text-gray-600 mt-2">
                         Wisata Agro Wonosari mengadakan kegiatan edukatif
                         tentang proses pengolahan teh mulai dari pemetikan
-                        hingga pengemasan. Pengunjung dapat mengenal lebih 
+                        hingga pengemasan. Pengunjung dapat mengenal lebih
                         dekat proses produksi teh khas Wonosari.
                     </p>
                 </div>
@@ -99,8 +99,8 @@
                         Wisata Agro Wonosari Malang, Liburan Edukatif di Tengah Perkebunan Teh
                     </h3>
                     <p class="text-xs text-gray-600 mt-2">
-                        Dikelola PTPN I Regional 5 Kebun Teh Wonosari, 
-                        tempat ini terkenal sebagai wisata edukasi teh 
+                        Dikelola PTPN I Regional 5 Kebun Teh Wonosari,
+                        tempat ini terkenal sebagai wisata edukasi teh
                         sekaligus destinasi liburan keluarga.
                     </p>
                 </div>
@@ -114,8 +114,8 @@
                         Wisata Agro Wonosari Gelar Lomba Fotografi Alam Bertema "Pesona Teh Wonosari"
                     </h3>
                     <p class="text-xs text-gray-600 mt-2">
-                        Dikelola PTPN I Regional 5 Kebun Teh Wonosari, 
-                        tempat ini terkenal sebagai wisata edukasi teh 
+                        Dikelola PTPN I Regional 5 Kebun Teh Wonosari,
+                        tempat ini terkenal sebagai wisata edukasi teh
                         sekaligus destinasi liburan keluarga.
                     </p>
                 </div>
@@ -129,10 +129,10 @@
                         Wisata Agro Wonosari Tawarkan Sensasi Tracking Seru Menuju Bukit Kuneer
                     </h3>
                     <p class="text-xs text-gray-600 mt-2">
-                        Bagi pecinta alam dan petualangan, 
-                        Wisata Agro Wonosari kini menghadirkan 
-                        aktivitas tracking menuju Bukit Kuneer. 
-                        Pengunjung dapat menikmati perjalanan di 
+                        Bagi pecinta alam dan petualangan,
+                        Wisata Agro Wonosari kini menghadirkan
+                        aktivitas tracking menuju Bukit Kuneer.
+                        Pengunjung dapat menikmati perjalanan di
                         tengah hamparan kebun teh yang hijau.
                     </p>
                 </div>
@@ -146,8 +146,8 @@
                         Wisata Agro Wonosari Luncurkan Program Edukasi "Petik Teh Sendiri" untuk Wisatawan
                     </h3>
                     <p class="text-xs text-gray-600 mt-2">
-                        Program “Petik Teh Sendiri” ini memberikan kesempatan 
-                        bagi wisatawan untuk memahami proses awal produksi teh 
+                        Program “Petik Teh Sendiri” ini memberikan kesempatan
+                        bagi wisatawan untuk memahami proses awal produksi teh
                         sekaligus menikmati suasana alam yang sejuk dan hijau.
                     </p>
                 </div>
