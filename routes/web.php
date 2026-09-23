@@ -2,38 +2,18 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::view('/', 'welcome')->name('beranda');
 
-Route::get('/paket', function () {
-    return view('paket');
-});
+Route::view('/kontak', 'kontak')->name('kontak');
 
-Route::get('/login', function () {
-    return view('login');
-});
+Route::view('/paket', 'paket')->name('paket');
 
-Route::get('/register', function () {
-    return view('register');
-});
+Route::view('/pemesanan', 'pemesanan')->name('pemesanan');
 
-Route::get('/katalog', function () {
-    return view('katalog');
-});
+Route::view('/katalog', 'katalog')->name('katalog');
 
-Route::get('/testimoni', function () {
-    return view('testimoni');
-});
+Route::view('/event', 'event')->name('event');
 
-Route::get('/event', function () {
-    return view('event');
-});
+Route::view('/login', 'login')->name('login');
 
-Route::get('/pemesanan', function () {
-    return view('pemesanan');
-});
-
-Route::get('/kontak', function () {
-    return view('kontak');
-})->name('kontak');
+Route::view('/register', 'register')->name('register');
