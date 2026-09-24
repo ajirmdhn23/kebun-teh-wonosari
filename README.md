@@ -1,4 +1,4 @@
-# Explore Wonosari
+# Explore Wonosari Website
 
 **Explore Wonosari** is a Laravel-based agro-tourism website designed to introduce **Wonosari Agro Tourism, Singosari, Malang**. The website provides tourism information, tour packages, plantation products, events, and a visit reservation feature through a modern and responsive interface.
 
